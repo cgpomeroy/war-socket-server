@@ -1,0 +1,14 @@
+{
+  "name": "war-socket-server",
+  "version": "1.0.0",
+  "description": "a socket server for a real time game of war!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "colton pomeroy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
